@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.bfe7c8d9.chunk.css",
-  "main.js": "/static/js/main.6cfa3c93.chunk.js",
-  "main.js.map": "/static/js/main.6cfa3c93.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.8d26381a.chunk.js": "/static/js/2.8d26381a.chunk.js",
-  "static/js/2.8d26381a.chunk.js.map": "/static/js/2.8d26381a.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.e6b53a52443470505914f3f74c5a9e35.js": "/precache-manifest.e6b53a52443470505914f3f74c5a9e35.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.bfe7c8d9.chunk.css.map": "/static/css/main.bfe7c8d9.chunk.css.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  "main.css": "/react-app-sandbox/static/css/main.bfe7c8d9.chunk.css",
+  "main.js": "/react-app-sandbox/static/js/main.5677cf6c.chunk.js",
+  "main.js.map": "/react-app-sandbox/static/js/main.5677cf6c.chunk.js.map",
+  "runtime~main.js": "/react-app-sandbox/static/js/runtime~main.fe7d3b6d.js",
+  "runtime~main.js.map": "/react-app-sandbox/static/js/runtime~main.fe7d3b6d.js.map",
+  "static/js/2.8d26381a.chunk.js": "/react-app-sandbox/static/js/2.8d26381a.chunk.js",
+  "static/js/2.8d26381a.chunk.js.map": "/react-app-sandbox/static/js/2.8d26381a.chunk.js.map",
+  "index.html": "/react-app-sandbox/index.html",
+  "precache-manifest.031fe9d1ad33eecb884dfb1188cc5fb5.js": "/react-app-sandbox/precache-manifest.031fe9d1ad33eecb884dfb1188cc5fb5.js",
+  "service-worker.js": "/react-app-sandbox/service-worker.js",
+  "static/css/main.bfe7c8d9.chunk.css.map": "/react-app-sandbox/static/css/main.bfe7c8d9.chunk.css.map",
+  "static/media/logo.svg": "/react-app-sandbox/static/media/logo.5d5d9eef.svg"
 }
